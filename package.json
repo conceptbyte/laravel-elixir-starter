@@ -1,0 +1,24 @@
+{
+  "name": "laravel-elixir-starter",
+  "version": "1.0.0",
+  "description": "A Laravel Elixir starter kit for frontend applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conceptbyte/laravel-elixir-starter.git"
+  },
+  "keywords": [
+    "Laravel",
+    "Elixir",
+    "Frontend"
+  ],
+  "author": "Rajdeep Tarat <rajdeeptarat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conceptbyte/laravel-elixir-starter/issues"
+  },
+  "homepage": "https://github.com/conceptbyte/laravel-elixir-starter#readme"
+}
